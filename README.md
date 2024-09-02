@@ -22,3 +22,8 @@ Data sourcing and sentiment analysis
 Building a recommendation system
 Improving the recommendations using the sentiment analysis model
 Deploying the end-to-end project with a user interface
+
+
+## Dataset
+
+This dataset(sample30.csv) consists of 30,000 reviews for more than 200 different products. The reviews and ratings are given by more than 20,000 users. Please refer to the following attribute description file to get the details about the columns of the Review Dataset.
